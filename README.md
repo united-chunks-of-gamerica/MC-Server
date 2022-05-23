@@ -1,4 +1,4 @@
-# Gamerica Discord Information
+# Gamerica Minecraft Server
  
 ## Table of Contents
 - [Bedrock Support](/Bedrock.md)
