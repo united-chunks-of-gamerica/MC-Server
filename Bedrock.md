@@ -66,4 +66,4 @@ Instructions for joining Gamerica on an Xbox console using BedrockConnect
 
 <hr>
 
-[Back to Top](Gamerica-Bedrock-Support)
+[Back to Top](#Gamerica-Bedrock-Support)
