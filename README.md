@@ -1,0 +1,2 @@
+# Discord
+Gamerica Discord Information
