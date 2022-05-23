@@ -2,10 +2,13 @@
 Gamerica supports both Minecraft Java and Bedrock thanks to Geyser/Floodgate!
 
 ## Index: 
-- [Mobile (Android & iOS)](#Mobile--PC)
-- [PC (Windows 10+)](#Mobile--PC)
-- [Nintendo Switch](Nintendo-Switch)
-- [Xbox](#Xbox)
+- [How to Connect](How-to-Connect) 
+	- [Mobile (Android & iOS)](#Mobile--PC) 
+	- [PC (Windows 10+)](#Mobile--PC) 
+	- [Nintendo Switch](Nintendo-Switch) 
+	- [Xbox](#Xbox) 
+
+# How to Connect
 
 ## Mobile & PC
 Instructions for joining Gamerica on Mobile and PC
