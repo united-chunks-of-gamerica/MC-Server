@@ -49,7 +49,7 @@ Instructions for joining Gamerica on a Nintendo Switch using BedrockConnect. Thi
 
 ## Xbox
 Instructions for joining Gamerica on an Xbox console using BedrockConnect
-1. Go to System (:gear:) -> Settings -> Network -> Network Settings -> Advanced Settings -> DNS Settings -> Manual
+1. Go to System (⚙️) -> Settings -> Network -> Network Settings -> Advanced Settings -> DNS Settings -> Manual
 2. Set the primary DNS: `104.238.130.180`
 3. Set the secondary DNS as your preferred DNS server. Cloudflare (`1.1.1.1`) and Google (`8.8.8.8`) are both popular options.
 4. Close Settings
